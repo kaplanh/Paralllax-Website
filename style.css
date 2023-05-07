@@ -29,7 +29,7 @@ section.background-image {
   background-size: cover;
   height: 100vh;
 
-  /* ?section div'inin altindaki article div ini sagdan soldan ortalamak icin */
+  /* ?section div'inin altindaki article div ini sagdan soldan ve yukaridan asagidan ortalamak icin */
   /* *1.yol */
   display: flex;
   justify-content: center;
@@ -149,7 +149,7 @@ section.img5 {
     font-size: 0.9rem;
   }
 }
-
+/**responsive daha fazlabilgi icin https://www.w3schools.com/html/html_responsive.asp*/
 @media (max-width: 568px) {
   section.img1,
   section.img2,
