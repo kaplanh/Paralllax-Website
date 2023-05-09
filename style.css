@@ -59,7 +59,7 @@ article{
 width: 200px;
 height: 200px;
 margin: auto;
-margin-top: calc(sayh - 100px);
+margin-top: calc(50vh - 100px);
 } */
 
 article.content {
