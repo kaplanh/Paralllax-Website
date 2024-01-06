@@ -4,6 +4,8 @@
 
 Project aims to create parallax website.
 
+[Click here to see website on browser](https://kaplanh.github.io/Paralllax-Website/)
+
 ## Problem Statement
 
 -   Your company has recently started on a project that aims to create a parallax website. So you and your colleagues have started to work on the project.
@@ -60,13 +62,13 @@ Project aims to create parallax website.
 
 -   Step 5: Deploy your application on Github template to showcase your app within your team.
 
-<p align="center"> <strong>⌛ Happy Coding  ✍ </strong> </p>
 
-# Parallax-Website
 
-[Click here to see website on browser](https://kaplanh.github.io/Paralllax-Website/)
+# Notes
 
 ✔ I prepared this repo for my bootcamp assignment.<br>
 ✔ I improved my ability to make the web page responsive.<br>
 ✔ I learned what is parallax design.<br>
-✔ You can learn more about the Parallax Website Design at this [link](https://xd.adobe.com/ideas/principles/web-design/best-practices-for-parallax-websites/).<br>
+✔ You can learn more about the Parallax Website Design at this 
+
+<p align="center"> <strong>⌛ Happy Coding  ✍ </strong> </p>
