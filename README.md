@@ -1,10 +1,10 @@
 # Project-002 : Parallax Website
+[Click here to see website on browser](https://kaplanh.github.io/Paralllax-Website/)
 
 ## Description
 
 Project aims to create parallax website.
 
-[Click here to see website on browser](https://kaplanh.github.io/Paralllax-Website/)
 
 ## Problem Statement
 
