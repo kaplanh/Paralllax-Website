@@ -20,7 +20,6 @@ Project aims to create parallax website.
 
 ```
 
-![Project Snapshot](./Project.gif)
 
 ### The following topics were addressed in the project:
 
